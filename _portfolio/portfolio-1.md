@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Automatic Recognition of Simple Sentences in British Sign Language using Computer Vision and Machine Learning"
+excerpt: "My 3rd Year Dissertation using Recurrent Neural Networks to accurately translate a range of dynamic British Sign Language<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
