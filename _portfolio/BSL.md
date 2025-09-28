@@ -42,7 +42,7 @@ A brief demonstration of the project outcome can be seen in the video below, in 
 
 
 ## Full Paper
-My full dissertation submission (sans code or data) can be viewed here.
+My full dissertation submission (sans code or data) can be viewed [here](/files/BSL-project.pdf).
 <object
   data="/files/BSL-project.pdf"
   type="application/pdf"
