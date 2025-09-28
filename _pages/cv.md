@@ -16,20 +16,20 @@ machine learning, computer vision, and systems design. My work spans interactive
 
 Work experience
 ======
-* September 2023 – September 2024 : **Research Intern – Software Engineer** <span style="color:grey"> @ Northrop Grumman </span>
+* September 2023 – September 2024 : **Research Intern – Software Engineer** <span style="color:lightgrey"> @ Northrop Grumman </span>
   * Worked in a diverse and remote team to develop a Home Security System-based interactive game for the Cheltenham Science Festival using a Raspberry Pi, AWS, computer vision and machine learning.
   * Represented the company and encouraged children to consider careers in STEM at the Cheltenham Science Festival.
   * Led the system design for an internal research project on geospatial data using AWS.
   * Presented my work and research to stakeholders from across the company.
   * Worked in a Scrum team, including temporarily taking on the role of Scrum Master.
 
-* January 2021 – July 2021 : **Coding and Tech Tutor** <span style="color:grey"> @ FunTech </span>
+* January 2021 – July 2021 : **Coding and Tech Tutor** <span style="color:lightgrey"> @ FunTech </span>
   * Guided children between the ages of 7-16 through a range of technology courses.
   * Taught basic web browser skills, video editing, Python basics, 2D game development in Unity with C# and simple AI in Python such as Minimax.
   * Explained complex ideas and algorithms successfully to a variety of skill levels.
   * Worked remotely, adapting to various technical difficulties with Cisco Webex.
 
-* October 2018 – August 2020 : **Volunteer Football Coach** <span style="color:grey"> @ Linthorpe Academicals </span>
+* October 2018 – August 2020 : **Volunteer Football Coach** <span style="color:lightgrey"> @ Linthorpe Academicals </span>
   * Volunteered twice-weekly as lead training coach for a range of teams aged between 9-14.
   * Took on extra responsibility to cover for other coaches in the club as necessary.
   * Managed relationships with parents and players to ensure everyone enjoyed their time with the team and were able to develop as people.
@@ -38,17 +38,17 @@ Work experience
 
 Education
 ======
-* October 2020 - June 2025 : **MEng Computer Science with Intercalated Year** <span style="color:grey"> @ University of Warwick </span>
+* October 2020 - June 2025 : **MEng Computer Science with Intercalated Year** <span style="color:lightgrey"> @ University of Warwick </span>
   * Achieved 1<sup>st</sup> class degree
   * 1<sup>st</sup> class dissertation – creating a tool for Automatic Recognition of British Sign Language using Recurrent Neural Networks. This involved tackling a number of problems around data acquisition, data quality and the lack of existing research.
   * 1<sup>st</sup> Class Group Project – Real-Time Shot Assistance using Augmented Reality for Pool. Acting as project manager and computer vision lead, I took responsibility for significant portions of the successful project.
-* September 2018 - June 2020 : **A-Levels** <span style="color:grey"> @ The King's Academy </span>
+* September 2018 - June 2020 : **A-Levels** <span style="color:lightgrey"> @ The King's Academy </span>
   * A* in Maths
   * A* in Computer Science
   * A in Chemistry
   * A in Further Maths (AS-Level)
   * C in German (AS-Level)
-* September 2015 – July 2018 : **GCSEs** <span style="color:grey"> @ The King's Academy </span>
+* September 2015 – July 2018 : **GCSEs** <span style="color:lightgrey"> @ The King's Academy </span>
   * Grade 9 in Maths, Computer Science, Combined Science (x2), History, RE
   * Grade 8 in German
   * Grade 7 in English Literature and English Language
@@ -92,18 +92,18 @@ Skills
   
 Additional Experience
 ======
-* May 2022 – July 2023, May 2024 – July 2025 : **Executive Officer** <span style="color:grey"> @ Warwick Pool Club </span>
+* May 2022 – July 2023, May 2024 – July 2025 : **Executive Officer** <span style="color:lightgrey"> @ Warwick Pool Club </span>
   * As both IT Officer and President, I have taken responsibility for the Club’s online presence and day-to-day activities.
   * Worked with the Student Union to ensure compliance with rules.
   * Organised large-scale events both within the University and with other Universities.
   * Negotiated and maintained sponsorships.
   * Developed leadership, communication and organisational skills.
-* October – November 2022 : **Competitive Programming** <span style="color:grey"> @ UKIEPC, NWERC, IMC Prosperity </span>
+* October – November 2022 : **Competitive Programming** <span style="color:lightgrey"> @ UKIEPC, NWERC, IMC Prosperity </span>
   * Placed 2nd within the University, and within the top 50 in the UK at UKIEPC, qualifying for NWERC
   * Represented Warwick University at NWERC (Northwestern Europe Regional Contest) at Delft, Netherlands
   * Utilised effective communication and knowledge of algorithms to produce efficient solutions to complex problems under time pressure
   * Took part in IMC Prosperity, a trading simulation challenge to optimise profits
-* January 2021 – November 2022 : **Mathematical Modelling for Electric Motorbike** <span style="color:grey"> @ Warwick Moto </span>
+* January 2021 – November 2022 : **Mathematical Modelling for Electric Motorbike** <span style="color:lightgrey"> @ Warwick Moto </span>
   * Helped design a simulation of an electric motorbike in MATLAB and Simulink
   * Worked on race-track extraction from satellite imagery using existing deep-learning models
   
